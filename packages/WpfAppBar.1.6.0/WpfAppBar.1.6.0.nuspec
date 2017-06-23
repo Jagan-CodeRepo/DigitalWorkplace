@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WpfAppBar</id>
+    <version>1.6.0</version>
+    <title>WpfAppBar</title>
+    <authors>Philip Rieck</authors>
+    <owners>Philip Rieck</owners>
+    <projectUrl>http://stackoverflow.com/a/84987/12643</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Utilities for creating a Windows AppBar with WPF</description>
+    <summary />
+    <releaseNotes>Workarea issues fixed</releaseNotes>
+    <copyright>Creative Commons CC0 ( https://creativecommons.org/publicdomain/zero/1.0/ )</copyright>
+    <tags>WPF AppBar</tags>
+  </metadata>
+</package>
